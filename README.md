@@ -7,7 +7,7 @@ English | [简体中文](./README_zh_CN.md)
 
 🚀 Welcome to the repo of **HyDRA**! 🎉🎉🎉
 
-The source code for the ICDE 2025 paper under review: ***Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs***.
+This repository corresponds to the TPAMI paper under review: ***HyDRA: Temporal Knowledge Graph Alignment in the Wild***.
 
 
 
@@ -66,4 +66,4 @@ We will respond to all questions within 2-3 business days.
 
 ---
 
-## Happy Coding 🌞️
+## Best Wishes 🌞️
